@@ -8,4 +8,4 @@
 
  Existem erros na semantica que impactam o visual, navegação e usabilidade da página, identifique e corrija esses erros.
 
-Link para o site criado [Teste de Front-End](https://master--desafio-mosaico.netlify.app/).
+Link para o site criado: [Teste de Front-End](https://master--desafio-mosaico.netlify.app/).
